@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: greedfear
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/meta
+    envVars:
+      - key: DEMO_MODE
+        value: "false"
+      - key: PORT
+        value: "8765"
