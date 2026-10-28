@@ -150,6 +150,6 @@
 
   loadMeta();
   load();
-  // 自动刷新：5 分钟
-  setInterval(load, 5 * 60 * 1000);
+  // 自动刷新：30 秒
+  setInterval(load, 30 * 1000);
 })();

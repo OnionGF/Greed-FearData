@@ -21,7 +21,8 @@ PORT=8765 python run.py
 
 1. 本机有富途 OpenD 时，市场页优先用富途行情合成。
 2. 否则退回公开行情 / 演示数据。
-3. ETF 列表可配置 `SZDT_API_SECRET` 拉取对标列表（密钥只放 `.env`，勿提交）。
+3. ETF 贪恐分由本地算法计算（120/60 日区间位置 + MA60 乖离 + RSI14，对照对标站 VIP 真值拟合），不依赖会员。
+4. 可选：会员有效期内用 `SZDT_AUTH` 跑 `python scripts/calibrate_szdt.py` 对照校准；密钥只放 `.env`。
 
 ## 配置
 

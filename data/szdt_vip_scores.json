@@ -1,0 +1,1702 @@
+[
+  {
+    "etf_type": "1",
+    "code": "US.AAPU",
+    "name": "两倍苹果",
+    "scale": 1.4,
+    "danger": 0,
+    "score": 31,
+    "price": "47.350",
+    "updated_at": "2026-10-28 20:33:14"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.AGQ",
+    "name": "两倍白银",
+    "scale": 10.48,
+    "danger": 0,
+    "score": -99,
+    "price": "52.880",
+    "updated_at": "2026-10-28 20:33:15"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.AMDL",
+    "name": "两倍AMD",
+    "scale": 9.16,
+    "danger": 0,
+    "score": -16,
+    "price": "65.770",
+    "updated_at": "2026-10-28 20:33:15"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.AMZU",
+    "name": "两倍亚马逊",
+    "scale": 2.81,
+    "danger": 0,
+    "score": -41,
+    "price": "34.580",
+    "updated_at": "2026-10-28 20:33:15"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.AVGX",
+    "name": "两倍博通",
+    "scale": 1.6,
+    "danger": 0,
+    "score": -67,
+    "price": "36.200",
+    "updated_at": "2026-10-28 20:33:15"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.BABX",
+    "name": "两倍阿里",
+    "scale": 0.96,
+    "danger": 0,
+    "score": -92,
+    "price": "14.140",
+    "updated_at": "2026-10-28 20:33:16"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.BITX",
+    "name": "两倍比特币",
+    "scale": 11.35,
+    "danger": 0,
+    "score": -47,
+    "price": "18.020",
+    "updated_at": "2026-10-28 20:33:16"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.BOIL",
+    "name": "两倍天然气",
+    "scale": 3.86,
+    "danger": 0,
+    "score": -90,
+    "price": "17.509",
+    "updated_at": "2026-10-28 20:33:16"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.BRKU",
+    "name": "两倍伯克希尔",
+    "scale": 0.37,
+    "danger": 0,
+    "score": 28,
+    "price": "25.350",
+    "updated_at": "2026-10-28 20:33:16"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.BRZU",
+    "name": "两倍巴西",
+    "scale": 0.9,
+    "danger": 0,
+    "score": -86,
+    "price": "78.100",
+    "updated_at": "2026-10-28 20:33:16"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.BULZ",
+    "name": "三倍科技",
+    "scale": 28.48,
+    "danger": 0,
+    "score": -35,
+    "price": "36.450",
+    "updated_at": "2026-10-28 20:33:17"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.CHAU",
+    "name": "两倍沪深",
+    "scale": 0.7,
+    "danger": 0,
+    "score": -86,
+    "price": "17.397",
+    "updated_at": "2026-10-28 20:33:17"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.CONL",
+    "name": "两倍Coin",
+    "scale": 4.55,
+    "danger": 0,
+    "score": -63,
+    "price": "3.959",
+    "updated_at": "2026-10-28 20:33:17"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.CURE",
+    "name": "三倍医疗",
+    "scale": 1.84,
+    "danger": 0,
+    "score": 30,
+    "price": "150.010",
+    "updated_at": "2026-10-28 20:33:17"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.CWEB",
+    "name": "两倍中概",
+    "scale": 1.58,
+    "danger": 0,
+    "score": -91,
+    "price": "16.163",
+    "updated_at": "2026-10-28 20:33:17"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.DFEN",
+    "name": "三倍军工",
+    "scale": 2.92,
+    "danger": 0,
+    "score": -49,
+    "price": "46.252",
+    "updated_at": "2026-10-28 20:33:18"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.DPST",
+    "name": "三倍小银行",
+    "scale": 3.19,
+    "danger": 0,
+    "score": -1,
+    "price": "121.550",
+    "updated_at": "2026-10-28 20:33:18"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.ETHU",
+    "name": "两倍以太币",
+    "scale": 9.25,
+    "danger": 0,
+    "score": -59,
+    "price": "22.581",
+    "updated_at": "2026-10-28 20:33:18"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.EURL",
+    "name": "三倍欧洲",
+    "scale": 0.39,
+    "danger": 0,
+    "score": 1,
+    "price": "42.010",
+    "updated_at": "2026-10-28 20:33:18"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.FAS",
+    "name": "三倍金融",
+    "scale": 20.88,
+    "danger": 0,
+    "score": 9,
+    "price": "157.788",
+    "updated_at": "2026-10-28 20:33:20"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.FBL",
+    "name": "两倍Meta",
+    "scale": 1.37,
+    "danger": 0,
+    "score": -77,
+    "price": "22.900",
+    "updated_at": "2026-10-28 20:33:21"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.FNGU",
+    "name": "三倍巨无霸",
+    "scale": 23.56,
+    "danger": 0,
+    "score": -11,
+    "price": "30.639",
+    "updated_at": "2026-10-28 20:33:21"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.GDXU",
+    "name": "三倍金矿",
+    "scale": 7.61,
+    "danger": 0,
+    "score": -93,
+    "price": "82.261",
+    "updated_at": "2026-10-28 20:33:21"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.GGLL",
+    "name": "两倍谷歌",
+    "scale": 9.1,
+    "danger": 0,
+    "score": -74,
+    "price": "87.381",
+    "updated_at": "2026-10-28 20:33:21"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.INDL",
+    "name": "两倍印度",
+    "scale": 0.51,
+    "danger": 0,
+    "score": -76,
+    "price": "39.500",
+    "updated_at": "2026-10-28 20:33:22"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.KORU",
+    "name": "三倍韩国",
+    "scale": 11.87,
+    "danger": 0,
+    "score": -55,
+    "price": "13.140",
+    "updated_at": "2026-10-28 20:33:23"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.LABU",
+    "name": "三倍生科",
+    "scale": 5.86,
+    "danger": 0,
+    "score": -7,
+    "price": "241.100",
+    "updated_at": "2026-10-28 20:33:23"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.MSFU",
+    "name": "两倍微软",
+    "scale": 4.28,
+    "danger": 0,
+    "score": 5,
+    "price": "41.600",
+    "updated_at": "2026-10-28 20:33:24"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.MSTU",
+    "name": "两倍MSTR",
+    "scale": 6.55,
+    "danger": 0,
+    "score": -60,
+    "price": "32.010",
+    "updated_at": "2026-10-28 20:33:24"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.NAIL",
+    "name": "三倍地产",
+    "scale": 5.66,
+    "danger": 0,
+    "score": -36,
+    "price": "30.600",
+    "updated_at": "2026-10-28 20:33:24"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.NVDL",
+    "name": "两倍英伟达",
+    "scale": 37.81,
+    "danger": 0,
+    "score": -31,
+    "price": "33.461",
+    "updated_at": "2026-10-28 20:33:25"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.OILU",
+    "name": "三倍油气",
+    "scale": 0.97,
+    "danger": 0,
+    "score": 80,
+    "price": "61.927",
+    "updated_at": "2026-10-28 20:33:25"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.PTIR",
+    "name": "两倍PLTR",
+    "scale": 3,
+    "danger": 0,
+    "score": -26,
+    "price": "22.985",
+    "updated_at": "2026-10-28 20:33:26"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.QLD",
+    "name": "两倍纳指",
+    "scale": 140.14,
+    "danger": 0,
+    "score": -1,
+    "price": "91.055",
+    "updated_at": "2026-10-28 20:33:26"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.RETL",
+    "name": "三倍零售",
+    "scale": 0.31,
+    "danger": 0,
+    "score": -16,
+    "price": "8.390",
+    "updated_at": "2026-10-28 20:33:26"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.SMCX",
+    "name": "两倍SMCI",
+    "scale": 1.39,
+    "danger": 0,
+    "score": -79,
+    "price": "9.540",
+    "updated_at": "2026-10-28 20:33:27"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.SOXL",
+    "name": "三倍半导体",
+    "scale": 230.65,
+    "danger": 0,
+    "score": -70,
+    "price": "104.042",
+    "updated_at": "2026-10-28 20:33:27"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.SPXL",
+    "name": "三倍标普",
+    "scale": 69.78,
+    "danger": 0,
+    "score": 0,
+    "price": "288.486",
+    "updated_at": "2026-10-28 20:33:27"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.SPYU",
+    "name": "四倍标普",
+    "scale": 5.31,
+    "danger": 0,
+    "score": -2,
+    "price": "34.240",
+    "updated_at": "2026-10-28 20:33:27"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.SSO",
+    "name": "两倍标普",
+    "scale": 86.34,
+    "danger": 0,
+    "score": 21,
+    "price": "70.660",
+    "updated_at": "2026-10-28 20:33:28"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.TECL",
+    "name": "三倍科技",
+    "scale": 57.09,
+    "danger": 0,
+    "score": -12,
+    "price": "209.549",
+    "updated_at": "2026-10-28 20:33:28"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.TMF",
+    "name": "三倍美债",
+    "scale": 20.04,
+    "danger": 0,
+    "score": -29,
+    "price": "29.750",
+    "updated_at": "2026-10-28 20:33:28"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.TNA",
+    "name": "三倍小盘",
+    "scale": 12.78,
+    "danger": 0,
+    "score": -11,
+    "price": "58.471",
+    "updated_at": "2026-10-28 20:33:28"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.TQQQ",
+    "name": "三倍纳指",
+    "scale": 354.96,
+    "danger": 0,
+    "score": -9,
+    "price": "71.950",
+    "updated_at": "2026-10-28 20:33:28"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.TSLL",
+    "name": "两倍特斯拉",
+    "scale": 37.76,
+    "danger": 0,
+    "score": -8,
+    "price": "11.840",
+    "updated_at": "2026-10-28 20:33:28"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.TSMX",
+    "name": "两倍台积电",
+    "scale": 5.37,
+    "danger": 0,
+    "score": -16,
+    "price": "81.630",
+    "updated_at": "2026-10-28 20:33:29"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.UCO",
+    "name": "两倍原油",
+    "scale": 5,
+    "danger": 0,
+    "score": 96,
+    "price": "66.740",
+    "updated_at": "2026-10-28 20:33:29"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.UDOW",
+    "name": "三倍道指",
+    "scale": 8.82,
+    "danger": 0,
+    "score": 12,
+    "price": "68.009",
+    "updated_at": "2026-10-28 20:33:29"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.UGL",
+    "name": "两倍黄金",
+    "scale": 6.78,
+    "danger": 0,
+    "score": -85,
+    "price": "43.180",
+    "updated_at": "2026-10-28 20:33:29"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.UPRO",
+    "name": "三倍标普",
+    "scale": 54.11,
+    "danger": 0,
+    "score": 0,
+    "price": "150.675",
+    "updated_at": "2026-10-28 20:33:29"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.USD",
+    "name": "两倍半导体",
+    "scale": 24.06,
+    "danger": 0,
+    "score": -32,
+    "price": "82.718",
+    "updated_at": "2026-10-28 20:33:29"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.UTSL",
+    "name": "三倍公用",
+    "scale": 0.67,
+    "danger": 0,
+    "score": -23,
+    "price": "36.422",
+    "updated_at": "2026-10-28 20:33:29"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.WEBL",
+    "name": "三倍互联",
+    "scale": 0.79,
+    "danger": 0,
+    "score": -27,
+    "price": "26.390",
+    "updated_at": "2026-10-28 20:33:30"
+  },
+  {
+    "etf_type": "1",
+    "code": "US.YINN",
+    "name": "三倍中国",
+    "scale": 5.29,
+    "danger": 0,
+    "score": -87,
+    "price": "21.420",
+    "updated_at": "2026-10-28 20:33:32"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.AGG",
+    "name": "债券",
+    "scale": 1393.39,
+    "danger": 0,
+    "score": -2,
+    "price": "96.045",
+    "updated_at": "2026-10-28 20:44:10"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.ARKK",
+    "name": "ARKK",
+    "scale": 55.47,
+    "danger": 0,
+    "score": -12,
+    "price": "84.620",
+    "updated_at": "2026-10-28 20:44:11"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.DIA",
+    "name": "道指",
+    "scale": 457.3,
+    "danger": 0,
+    "score": 22,
+    "price": "523.280",
+    "updated_at": "2026-10-28 20:44:13"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.ESPO",
+    "name": "电竞",
+    "scale": 2.54,
+    "danger": 0,
+    "score": -29,
+    "price": "98.522",
+    "updated_at": "2026-10-28 20:44:14"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.GLD",
+    "name": "黄金",
+    "scale": 1346.04,
+    "danger": 0,
+    "score": -85,
+    "price": "371.510",
+    "updated_at": "2026-10-28 20:44:17"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.IAI",
+    "name": "铲子",
+    "scale": 12.92,
+    "danger": 0,
+    "score": -11,
+    "price": "178.574",
+    "updated_at": "2026-10-28 20:44:17"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.IAK",
+    "name": "保险",
+    "scale": 4.5,
+    "danger": 0,
+    "score": 27,
+    "price": "146.460",
+    "updated_at": "2026-10-28 20:44:17"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.IBIT",
+    "name": "比特币",
+    "scale": 646.91,
+    "danger": 0,
+    "score": -21,
+    "price": "45.670",
+    "updated_at": "2026-10-28 20:44:17"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.ITB",
+    "name": "地产",
+    "scale": 23.01,
+    "danger": 0,
+    "score": -35,
+    "price": "90.000",
+    "updated_at": "2026-10-28 20:44:18"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.IWM",
+    "name": "罗素",
+    "scale": 746.03,
+    "danger": 0,
+    "score": 7,
+    "price": "280.220",
+    "updated_at": "2026-10-28 20:44:18"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.KRE",
+    "name": "小银行",
+    "scale": 40.01,
+    "danger": 0,
+    "score": 22,
+    "price": "72.430",
+    "updated_at": "2026-10-28 20:44:18"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.KWEB",
+    "name": "中概",
+    "scale": 43.12,
+    "danger": 0,
+    "score": -89,
+    "price": "23.122",
+    "updated_at": "2026-10-28 20:44:19"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.NLR",
+    "name": "核能",
+    "scale": 30.66,
+    "danger": 0,
+    "score": -74,
+    "price": "96.530",
+    "updated_at": "2026-10-28 20:33:25"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.QQQ",
+    "name": "纳指100",
+    "scale": 4766.72,
+    "danger": 0,
+    "score": -1,
+    "price": "724.284",
+    "updated_at": "2026-10-28 20:33:26"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.SMH",
+    "name": "半导体",
+    "scale": 677.17,
+    "danger": 0,
+    "score": -13,
+    "price": "564.355",
+    "updated_at": "2026-10-28 20:33:27"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.SOXX",
+    "name": "半导体",
+    "scale": 463.7,
+    "danger": 0,
+    "score": -21,
+    "price": "516.400",
+    "updated_at": "2026-10-28 20:33:27"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.SPMO",
+    "name": "标普Plus",
+    "scale": 218.87,
+    "danger": 0,
+    "score": -15,
+    "price": "143.832",
+    "updated_at": "2026-10-28 20:33:27"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.SPY",
+    "name": "标普",
+    "scale": 8099.85,
+    "danger": 0,
+    "score": 22,
+    "price": "771.717",
+    "updated_at": "2026-10-28 20:33:27"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.VDC",
+    "name": "可选消费",
+    "scale": 87,
+    "danger": 0,
+    "score": 27,
+    "price": "236.590",
+    "updated_at": "2026-10-28 20:33:30"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.VIG",
+    "name": "红利",
+    "scale": 1275.98,
+    "danger": 0,
+    "score": 27,
+    "price": "244.675",
+    "updated_at": "2026-10-28 20:33:30"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.VOX",
+    "name": "通讯",
+    "scale": 62.95,
+    "danger": 0,
+    "score": -76,
+    "price": "178.260",
+    "updated_at": "2026-10-28 20:33:30"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.VTI",
+    "name": "全股",
+    "scale": 23221,
+    "danger": 0,
+    "score": 21,
+    "price": "378.666",
+    "updated_at": "2026-10-28 20:33:30"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.VTV",
+    "name": "价值",
+    "scale": 2517.25,
+    "danger": 0,
+    "score": 26,
+    "price": "226.730",
+    "updated_at": "2026-10-28 20:33:30"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.VUG",
+    "name": "成长",
+    "scale": 3920.71,
+    "danger": 0,
+    "score": -1,
+    "price": "88.750",
+    "updated_at": "2026-10-28 20:33:30"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.XBI",
+    "name": "生物科技",
+    "scale": 101.99,
+    "danger": 0,
+    "score": 19,
+    "price": "154.480",
+    "updated_at": "2026-10-28 20:33:31"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.XLC",
+    "name": "通讯",
+    "scale": 222.28,
+    "danger": 0,
+    "score": -80,
+    "price": "103.620",
+    "updated_at": "2026-10-28 20:33:31"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.XLE",
+    "name": "能源",
+    "scale": 460.61,
+    "danger": 0,
+    "score": 84,
+    "price": "68.655",
+    "updated_at": "2026-10-28 20:33:31"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.XLF",
+    "name": "金融",
+    "scale": 515.16,
+    "danger": 0,
+    "score": 23,
+    "price": "55.720",
+    "updated_at": "2026-10-28 20:33:31"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.XLI",
+    "name": "工业",
+    "scale": 305.41,
+    "danger": 0,
+    "score": -7,
+    "price": "169.560",
+    "updated_at": "2026-10-28 20:33:31"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.XLP",
+    "name": "必需消费",
+    "scale": 147.67,
+    "danger": 0,
+    "score": 25,
+    "price": "86.700",
+    "updated_at": "2026-10-28 20:33:31"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.XLU",
+    "name": "公用事业",
+    "scale": 237.4,
+    "danger": 0,
+    "score": -1,
+    "price": "42.900",
+    "updated_at": "2026-10-28 20:33:31"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.XLV",
+    "name": "医疗",
+    "scale": 467.22,
+    "danger": 0,
+    "score": 31,
+    "price": "178.050",
+    "updated_at": "2026-10-28 20:33:31"
+  },
+  {
+    "etf_type": "2",
+    "code": "US.YMAX",
+    "name": "期权",
+    "scale": 3.49,
+    "danger": 0,
+    "score": 49,
+    "price": "7.190",
+    "updated_at": "2026-10-28 20:33:32"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.510050",
+    "name": "上证50",
+    "scale": 198.59,
+    "danger": 0,
+    "score": -82,
+    "price": "2.866",
+    "updated_at": "2026-10-28 16:55:13"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.510210",
+    "name": "上证指数",
+    "scale": 141.69,
+    "danger": 0,
+    "score": -81,
+    "price": "0.953",
+    "updated_at": "2026-10-28 16:55:13"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.510300",
+    "name": "沪深300",
+    "scale": 779.86,
+    "danger": 0,
+    "score": -90,
+    "price": "4.152",
+    "updated_at": "2026-10-28 16:55:13"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.510500",
+    "name": "中证500",
+    "scale": 271.19,
+    "danger": 0,
+    "score": -93,
+    "price": "6.672",
+    "updated_at": "2026-10-28 16:55:13"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.510880",
+    "name": "A股红利",
+    "scale": 260.01,
+    "danger": 0,
+    "score": -13,
+    "price": "3.383",
+    "updated_at": "2026-10-28 16:55:13"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.511380",
+    "name": "可转债",
+    "scale": 584.57,
+    "danger": 0,
+    "score": -82,
+    "price": "12.706",
+    "updated_at": "2026-10-28 16:55:13"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.512010",
+    "name": "医药",
+    "scale": 182.19,
+    "danger": 0,
+    "score": -37,
+    "price": "0.374",
+    "updated_at": "2026-10-28 16:55:13"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.512100",
+    "name": "中证1000",
+    "scale": 80.38,
+    "danger": 0,
+    "score": -92,
+    "price": "2.675",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.512170",
+    "name": "医疗",
+    "scale": 229.58,
+    "danger": 0,
+    "score": -58,
+    "price": "0.332",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.512480",
+    "name": "半导体",
+    "scale": 65.06,
+    "danger": 0,
+    "score": -96,
+    "price": "0.797",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.512660",
+    "name": "军工",
+    "scale": 69.12,
+    "danger": 0,
+    "score": -87,
+    "price": "1.021",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.512690",
+    "name": "酒",
+    "scale": 131.9,
+    "danger": 0,
+    "score": -78,
+    "price": "0.407",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.512800",
+    "name": "银行",
+    "scale": 102.22,
+    "danger": 0,
+    "score": 21,
+    "price": "0.872",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.512880",
+    "name": "证券",
+    "scale": 566.32,
+    "danger": 0,
+    "score": -88,
+    "price": "0.992",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513000",
+    "name": "日本",
+    "scale": 21.39,
+    "danger": 0,
+    "score": -7,
+    "price": "2.224",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513030",
+    "name": "德国",
+    "scale": 18.05,
+    "danger": 0,
+    "score": -75,
+    "price": "1.749",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513050",
+    "name": "中概互联网",
+    "scale": 313.06,
+    "danger": 0,
+    "score": -94,
+    "price": "0.937",
+    "updated_at": "2026-10-28 16:55:14"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513060",
+    "name": "恒生医疗",
+    "scale": 41.99,
+    "danger": 0,
+    "score": -87,
+    "price": "0.522",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513080",
+    "name": "法国",
+    "scale": 10.05,
+    "danger": 0,
+    "score": -89,
+    "price": "1.593",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513120",
+    "name": "香港创新药",
+    "scale": 192.39,
+    "danger": 0,
+    "score": -64,
+    "price": "1.188",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513130",
+    "name": "恒生科技",
+    "scale": 284.09,
+    "danger": 0,
+    "score": -98,
+    "price": "0.473",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513290",
+    "name": "纳指生物科技",
+    "scale": 18.96,
+    "danger": 0,
+    "score": 23,
+    "price": "1.821",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513330",
+    "name": "恒生互联网",
+    "scale": 237.96,
+    "danger": 0,
+    "score": -95,
+    "price": "0.316",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513400",
+    "name": "道琼斯",
+    "scale": 40.89,
+    "danger": 0,
+    "score": 18,
+    "price": "1.312",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513500",
+    "name": "标普500",
+    "scale": 275.05,
+    "danger": 0,
+    "score": 22,
+    "price": "2.702",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513630",
+    "name": "港股红利",
+    "scale": 116.83,
+    "danger": 0,
+    "score": -74,
+    "price": "1.523",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513730",
+    "name": "东南亚科技",
+    "scale": 10.99,
+    "danger": 0,
+    "score": -90,
+    "price": "1.010",
+    "updated_at": "2026-10-28 16:55:15"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.513850",
+    "name": "美国50",
+    "scale": 19.82,
+    "danger": 0,
+    "score": 27,
+    "price": "1.910",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.515030",
+    "name": "新能源车",
+    "scale": 18.41,
+    "danger": 0,
+    "score": -92,
+    "price": "1.324",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.515050",
+    "name": "5G通信",
+    "scale": 131.19,
+    "danger": 0,
+    "score": -94,
+    "price": "0.780",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.515230",
+    "name": "软件",
+    "scale": 52.65,
+    "danger": 0,
+    "score": -79,
+    "price": "0.653",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.515790",
+    "name": "光伏",
+    "scale": 41.99,
+    "danger": 0,
+    "score": -94,
+    "price": "0.703",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.515800",
+    "name": "中证800",
+    "scale": 41.73,
+    "danger": 0,
+    "score": -90,
+    "price": "1.133",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.518880",
+    "name": "黄金",
+    "scale": 840.93,
+    "danger": 0,
+    "score": -89,
+    "price": "8.226",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.520830",
+    "name": "沙特",
+    "scale": 11.29,
+    "danger": 0,
+    "score": -86,
+    "price": "0.824",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.520870",
+    "name": "巴西",
+    "scale": 5.74,
+    "danger": 0,
+    "score": -24,
+    "price": "1.065",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.562500",
+    "name": "机器人",
+    "scale": 155.78,
+    "danger": 0,
+    "score": -47,
+    "price": "0.890",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.563300",
+    "name": "中证2000",
+    "scale": 26.37,
+    "danger": 0,
+    "score": -91,
+    "price": "1.283",
+    "updated_at": "2026-10-28 16:55:17"
+  },
+  {
+    "etf_type": "3",
+    "code": "SH.588000",
+    "name": "科创板",
+    "scale": 768.75,
+    "danger": 0,
+    "score": -96,
+    "price": "1.354",
+    "updated_at": "2026-10-28 16:55:17"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159502",
+    "name": "标普生物科技",
+    "scale": 17.82,
+    "danger": 0,
+    "score": 12,
+    "price": "1.586",
+    "updated_at": "2026-10-28 16:55:22"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159509",
+    "name": "纳指科技",
+    "scale": 206.94,
+    "danger": 0,
+    "score": 29,
+    "price": "3.157",
+    "updated_at": "2026-10-28 16:55:22"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159518",
+    "name": "标普油气",
+    "scale": 23.86,
+    "danger": 0,
+    "score": 95,
+    "price": "1.449",
+    "updated_at": "2026-10-28 16:55:22"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159529",
+    "name": "标普消费",
+    "scale": 11.17,
+    "danger": 0,
+    "score": 19,
+    "price": "1.368",
+    "updated_at": "2026-10-28 16:55:22"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159687",
+    "name": "亚太精选",
+    "scale": 29.52,
+    "danger": 0,
+    "score": -45,
+    "price": "1.751",
+    "updated_at": "2026-10-28 16:55:22"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159819",
+    "name": "人工智能",
+    "scale": 172.66,
+    "danger": 0,
+    "score": -90,
+    "price": "1.473",
+    "updated_at": "2026-10-28 16:55:22"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159865",
+    "name": "养殖",
+    "scale": 65.81,
+    "danger": 0,
+    "score": -81,
+    "price": "0.515",
+    "updated_at": "2026-10-28 16:55:22"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159869",
+    "name": "游戏",
+    "scale": 79.72,
+    "danger": 0,
+    "score": -83,
+    "price": "1.015",
+    "updated_at": "2026-10-28 16:55:22"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159915",
+    "name": "创业板",
+    "scale": 889.55,
+    "danger": 0,
+    "score": -97,
+    "price": "2.649",
+    "updated_at": "2026-10-28 16:55:23"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159920",
+    "name": "恒生",
+    "scale": 76.34,
+    "danger": 0,
+    "score": -92,
+    "price": "1.349",
+    "updated_at": "2026-10-28 16:55:23"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159928",
+    "name": "消费",
+    "scale": 158.66,
+    "danger": 0,
+    "score": -75,
+    "price": "0.654",
+    "updated_at": "2026-10-28 16:55:23"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159941",
+    "name": "纳指100",
+    "scale": 381.29,
+    "danger": 0,
+    "score": 1,
+    "price": "1.708",
+    "updated_at": "2026-10-28 16:55:23"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159992",
+    "name": "创新药",
+    "scale": 148.62,
+    "danger": 0,
+    "score": -72,
+    "price": "0.790",
+    "updated_at": "2026-10-28 16:55:23"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.159995",
+    "name": "芯片",
+    "scale": 212.76,
+    "danger": 0,
+    "score": -96,
+    "price": "0.868",
+    "updated_at": "2026-10-28 16:55:23"
+  },
+  {
+    "etf_type": "3",
+    "code": "SZ.164824",
+    "name": "印度",
+    "scale": 21.85,
+    "danger": 0,
+    "score": -83,
+    "price": "1.210",
+    "updated_at": "2026-10-28 16:55:23"
+  },
+  {
+    "etf_type": "4",
+    "code": "HK.02830",
+    "name": "沙特",
+    "scale": 84.59,
+    "danger": 0,
+    "score": -89,
+    "price": "73.120",
+    "updated_at": "2026-10-28 16:00:20"
+  },
+  {
+    "etf_type": "4",
+    "code": "HK.03004",
+    "name": "越南",
+    "scale": 0.27,
+    "danger": 0,
+    "score": 15,
+    "price": "9.470",
+    "updated_at": "2026-10-28 16:00:20"
+  },
+  {
+    "etf_type": "4",
+    "code": "HK.03121",
+    "name": "韩国",
+    "scale": 5.66,
+    "danger": 0,
+    "score": -6,
+    "price": "5.880",
+    "updated_at": "2026-10-28 16:00:21"
+  },
+  {
+    "etf_type": "4",
+    "code": "SH.520830",
+    "name": "沙特",
+    "scale": 11.29,
+    "danger": 0,
+    "score": -86,
+    "price": "0.824",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "4",
+    "code": "SH.520870",
+    "name": "巴西",
+    "scale": 5.74,
+    "danger": 0,
+    "score": -24,
+    "price": "1.065",
+    "updated_at": "2026-10-28 16:55:16"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.ARGT",
+    "name": "阿根廷",
+    "scale": 6.52,
+    "danger": 0,
+    "score": -93,
+    "price": "82.936",
+    "updated_at": "2026-10-28 20:44:11"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.ECH",
+    "name": "智利",
+    "scale": 8.11,
+    "danger": 0,
+    "score": -86,
+    "price": "36.370",
+    "updated_at": "2026-10-28 20:44:14"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EEM",
+    "name": "新兴市场",
+    "scale": 286.68,
+    "danger": 0,
+    "score": -1,
+    "price": "63.237",
+    "updated_at": "2026-10-28 20:44:14"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EFA",
+    "name": "欧澳远东",
+    "scale": 764.33,
+    "danger": 0,
+    "score": 59,
+    "price": "103.410",
+    "updated_at": "2026-10-28 20:44:14"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EPI",
+    "name": "印度",
+    "scale": 17.66,
+    "danger": 0,
+    "score": -78,
+    "price": "40.320",
+    "updated_at": "2026-10-28 20:44:14"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWA",
+    "name": "澳大利亚",
+    "scale": 12.4,
+    "danger": 0,
+    "score": 77,
+    "price": "29.480",
+    "updated_at": "2026-10-28 20:44:14"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWC",
+    "name": "加拿大",
+    "scale": 75.21,
+    "danger": 0,
+    "score": 73,
+    "price": "61.050",
+    "updated_at": "2026-10-28 20:44:14"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWG",
+    "name": "德国",
+    "scale": 15.08,
+    "danger": 0,
+    "score": -36,
+    "price": "40.541",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWH",
+    "name": "香港",
+    "scale": 12.18,
+    "danger": 0,
+    "score": -61,
+    "price": "21.920",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWI",
+    "name": "意大利",
+    "scale": 11.85,
+    "danger": 0,
+    "score": -33,
+    "price": "55.844",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWJ",
+    "name": "日本",
+    "scale": 235.8,
+    "danger": 0,
+    "score": 43,
+    "price": "94.440",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWL",
+    "name": "瑞士",
+    "scale": 29.3,
+    "danger": 0,
+    "score": 76,
+    "price": "62.900",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWM",
+    "name": "马来西亚",
+    "scale": 2.27,
+    "danger": 0,
+    "score": -59,
+    "price": "26.670",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWP",
+    "name": "西班牙",
+    "scale": 19.69,
+    "danger": 0,
+    "score": 10,
+    "price": "57.700",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWQ",
+    "name": "法国",
+    "scale": 3.41,
+    "danger": 0,
+    "score": -80,
+    "price": "41.740",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWS",
+    "name": "新加坡",
+    "scale": 10.93,
+    "danger": 0,
+    "score": -17,
+    "price": "30.800",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWT",
+    "name": "台湾",
+    "scale": 115.43,
+    "danger": 0,
+    "score": 46,
+    "price": "108.300",
+    "updated_at": "2026-10-28 20:44:15"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWU",
+    "name": "英国",
+    "scale": 37.31,
+    "danger": 0,
+    "score": 68,
+    "price": "47.190",
+    "updated_at": "2026-10-28 20:44:16"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWW",
+    "name": "墨西哥",
+    "scale": 15.2,
+    "danger": 0,
+    "score": 60,
+    "price": "75.000",
+    "updated_at": "2026-10-28 20:44:16"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWY",
+    "name": "韩国",
+    "scale": 225.13,
+    "danger": 0,
+    "score": -5,
+    "price": "163.060",
+    "updated_at": "2026-10-28 20:44:16"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EWZ",
+    "name": "巴西",
+    "scale": 112.93,
+    "danger": 0,
+    "score": -19,
+    "price": "34.210",
+    "updated_at": "2026-10-28 20:44:16"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.EZA",
+    "name": "南非",
+    "scale": 4.51,
+    "danger": 0,
+    "score": -30,
+    "price": "64.780",
+    "updated_at": "2026-10-28 20:44:16"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.FXI",
+    "name": "中国",
+    "scale": 37.36,
+    "danger": 0,
+    "score": -86,
+    "price": "32.491",
+    "updated_at": "2026-10-28 20:44:16"
+  },
+  {
+    "etf_type": "4",
+    "code": "US.IEV",
+    "name": "欧洲",
+    "scale": 15.49,
+    "danger": 0,
+    "score": 43,
+    "price": "71.400",
+    "updated_at": "2026-10-28 20:44:18"
+  }
+]

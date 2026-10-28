@@ -81,14 +81,14 @@ def get_etf_list(etf_type: str = "1") -> dict[str, Any]:
     cache_key = f"etf:{etf_type}"
     now = datetime.now().timestamp()
     cached = _cache.get(cache_key)
-    if cached and now - cached["at"] < 180:
+    if cached and now - cached["at"] < 30:
         return cached["payload"]
 
     pool = ETF_POOL.get(etf_type) or ETF_POOL["1"]
     rows: list[dict] = []
     source = "public"
 
-    # 1) 优先对标站同款接口（真实列表/市价/规模）
+    # 1) 列表骨架：对标站（名称/规模，免费分常为 0）或本地池
     try:
         from app.szdt_client import fetch_stock_emotion
 
@@ -99,22 +99,47 @@ def get_etf_list(etf_type: str = "1") -> dict[str, Any]:
     except Exception:
         live = None
 
-    # 2) 公开行情自算
     if not rows:
+        rows = [
+            {
+                "code": x["code"],
+                "name": x["name"],
+                "score": 0,
+                "price": "-",
+                "scale": "-",
+                "danger": 0,
+                "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            }
+            for x in pool
+        ]
+
+    # 2) 本地反推算法覆盖分数（不依赖会员；VIP 仅用于校准脚本）
+    try:
+        from app.futu_quotes import enrich_rows_with_futu
+
+        enriched, tag = enrich_rows_with_futu(rows, use_kline=True)
+        if tag:
+            rows = enriched
+            source = f"{source}+local" if source != "public" else "local"
+    except Exception:
+        pass
+
+    # 3) 仍无有效价时，公开行情 / 演示兜底
+    priced = sum(1 for r in rows if str(r.get("price") or "-") not in {"-", "", "nan"})
+    if priced < max(3, len(rows) // 4):
         with ThreadPoolExecutor(max_workers=3) as ex:
             futs = [ex.submit(_fetch_one, item) for item in pool]
+            got = []
             for fut in as_completed(futs):
                 row = fut.result()
                 if row:
-                    rows.append(row)
-
-    # 3) 演示兜底，避免空白页
-    if len(rows) < max(3, len(pool) // 4):
-        have = {r["code"] for r in rows}
-        for item in pool:
-            if item["code"] not in have:
-                rows.append(_demo_row(item))
-        source = "demo" if not have else ("mixed" if source == "public" else source)
+                    got.append(row)
+        if got:
+            rows = got
+            source = "public"
+        else:
+            rows = [_demo_row(item) for item in pool]
+            source = "demo"
 
     rows.sort(key=lambda r: r["code"])
     statics = {"fear": 0, "neutral": 0, "greed": 0}

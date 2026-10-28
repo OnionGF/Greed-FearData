@@ -87,14 +87,13 @@
       neuEl.textContent = `中性${s.neutral || 0}个`;
       greedEl.textContent = `贪婪${s.greed || 0}个`;
       const foot = document.getElementById("footnote");
-      const allZero =
-        rows.length > 0 && rows.every((r) => Number(r.score) === 0);
       if (foot) {
-        foot.textContent = allZero
-          ? "≥60 贪婪，≤-60 恐慌。当前贪恐多为 0（非交易时段或延迟），市价仍为实时同步。"
+        const src = data.source || "";
+        foot.textContent = src.includes("local") || src.includes("futu")
+          ? "≥60 贪婪，≤-60 恐慌。分数为本地反推算法（区间位置+MA60+RSI），不依赖会员；约 30 秒刷新。"
           : "≥60 情绪贪婪，≤-60 情绪恐慌。仅供参考，不构成投资建议。";
       }
-      if (data.source && data.source !== "live") {
+      if (data.source) {
         updatedEl.textContent = `${data.updated_at || "—"} · ${data.source}`;
       }
       renderTable();
@@ -117,5 +116,6 @@
   });
 
   load();
-  setInterval(load, 3 * 60 * 1000);
+  // 实时刷新：30 秒
+  setInterval(load, 30 * 1000);
 })();

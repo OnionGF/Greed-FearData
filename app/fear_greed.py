@@ -149,6 +149,26 @@ def score_volatility(vix: float, vix_history: pd.Series | None = None) -> Factor
     )
 
 
+def score_realized_vol(closes: pd.Series, window: int = 20) -> FactorResult:
+    """无 VIX 权限时：用指数已实现波动率（年化）百分位，高波动=恐惧。"""
+    if len(closes) < window + 5:
+        return FactorResult("volatility", "市场波动", 50.0, None, "无波动率数据")
+    rets = closes.pct_change().dropna()
+    if len(rets) < window:
+        return FactorResult("volatility", "市场波动", 50.0, None, "无波动率数据")
+    vol_now = float(rets.iloc[-window:].std() * np.sqrt(252) * 100)
+    hist = rets.rolling(window).std().dropna() * np.sqrt(252) * 100
+    pct = percentile_rank(hist, vol_now)
+    score = (1.0 - pct) * 100
+    return FactorResult(
+        "volatility",
+        "市场波动",
+        round(score, 1),
+        round(vol_now, 2),
+        f"已实现波动 {vol_now:.1f}%（{window}日年化，历史偏高 {pct * 100:.0f}%）",
+    )
+
+
 def score_safe_haven(equity_ret: float, haven_ret: float) -> FactorResult:
     """避险相对收益：避险跑赢股票 → 恐惧。"""
     if any(np.isnan(x) for x in (equity_ret, haven_ret)):
@@ -161,7 +181,7 @@ def score_safe_haven(equity_ret: float, haven_ret: float) -> FactorResult:
         "避险需求",
         round(score, 1),
         round(spread * 100, 2),
-        f"避险相对股票 {spread * 100:+.2f}%（近20日）",
+        f"避险相对股票 {spread * 100:+.2f}%",
     )
 
 
@@ -193,10 +213,11 @@ def classify(score: float) -> tuple[str, str]:
 
 
 def aggregate(factors: list[FactorResult], weights: dict[str, float] | None = None) -> float:
+    """只合成有真实数据的因子（raw 非空）；全缺时退回等权均值。"""
     weights = weights or {f.key: 1.0 for f in factors}
-    usable = [(f, weights.get(f.key, 1.0)) for f in factors if f.raw is not None or f.detail != "样本不足"]
-    # 仍纳入有默认分的因子
-    usable = [(f, weights.get(f.key, 1.0)) for f in factors]
+    usable = [(f, weights.get(f.key, 1.0)) for f in factors if f.raw is not None]
+    if not usable:
+        usable = [(f, weights.get(f.key, 1.0)) for f in factors]
     total_w = sum(w for _, w in usable) or 1.0
     return float(sum(f.score * w for f, w in usable) / total_w)
 
